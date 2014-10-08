@@ -83,4 +83,12 @@ It interacts with:
 - Train
 - Passenger
 
+##Module Seats
+It should:
+- Initialize empty
+- Be able to accept a passenger
+- Be able to release a passenger
+- Not accept a passenger when full
+
+
 Add later: check when station/train/coach is full and raise errors.
